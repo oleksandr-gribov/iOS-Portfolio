@@ -7,6 +7,7 @@
 Technologies used: CoreData, Camera, Gestures, URLSession 
 
 Role: Sole designer and developer
+
 <img src="https://github.com/oleksandr-gribov/SmartList/blob/master/smartlist_Scan.gif" width="200" height="350"> <img src="https://github.com/oleksandr-gribov/SmartList/blob/master/gestures.gif" width="200" height="350">
 
 
