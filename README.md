@@ -8,7 +8,7 @@ Technologies used: CoreData, Camera, Gestures, URLSession
 
 Role: Sole designer and developer
 
-<img src="https://github.com/oleksandr-gribov/SmartList/blob/master/smartlist_Scan.gif" width="200" height="350"> <img src="https://github.com/oleksandr-gribov/SmartList/blob/master/gestures.gif" width="200" height="350">
+<img src="https://github.com/oleksandr-gribov/SmartList/blob/master/smartlist_Scan.gif" width="200" height="350"> <img src="https://github.com/oleksandr-gribov/SmartList/blob/master/gestures.gif" width="180" height="350">
 
 
 
@@ -19,3 +19,6 @@ Role: Sole designer and developer
 Technologies used: Google Places API, MapKit, Firebase, SnapKit 
 
 Role: Sole designer and developer
+
+
+<img src="https://github.com/oleksandr-gribov/GroupChoice/blob/master/Screen%20Shot%202019-09-02%20at%2017.06.19.png" width="180" height="350"> <img src="https://github.com/oleksandr-gribov/GroupChoice/blob/master/Screen%20Shot%202019-09-02%20at%2017.06.40.png" width="180" height="350">
